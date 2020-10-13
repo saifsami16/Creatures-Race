@@ -1,0 +1,9 @@
+7
+wanderer r 4
+walk w 7
+slider s 12
+sneaky s 10
+scavenger r 9
+fly w 2
+twirler s 10
+sccrrrssc
